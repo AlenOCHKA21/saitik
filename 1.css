@@ -10,6 +10,11 @@ text-align: center;
 vertical-align:top;
 }
 
+td.d{
+color: #939393;
+text-align: center;
+}
+
 tr.w{
 color: #C10061;
 font-size: 18px;
